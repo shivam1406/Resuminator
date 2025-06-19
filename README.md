@@ -1,10 +1,10 @@
-![Resuminator Logo](App\Logo\Icon.png)
+![Resuminator Logo](screenshots\Icon.png)
 
 # Resuminator
 ## AI That Doesn’t Just Read Resumes — It Understands Them
 ### Analyze · Predict · Recommend — Smart Insights for Smarter Careers
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.9.12%2B-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-blueviolet)
 [![GitHub license](https://img.shields.io/github/license/shivam1406/Resuminator)](LICENSE)
@@ -65,38 +65,10 @@ Developed with 🤍 by [Shivam](href="https://www.linkedin.com/in/ssshivam1406/"
 
 ## 🧠 Tech Stack
 
-<details>
-<summary>Frontend</summary>
-
-- [Streamlit](https://streamlit.io/)
-- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-</details>
-
-<details>
-<summary>Backend</summary>
-
-- [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/)
-</details>
-
-<details>
-<summary>Database</summary>
-
-- [MySQL](https://www.mysql.com/)
-</details>
-
-<details>
-<summary>Python Modules</summary>
-
-- [pandas](https://pandas.pydata.org/)
-- [pyresparser](https://github.com/OmkarPathak/pyresparser)
-- [pdfminer3](https://pypi.org/project/pdfminer3/)
-- [NLTK](https://www.nltk.org/)
-- [Plotly](https://plotly.com/)
-</details>
-
+- **Frontend:** Streamlit, HTML, CSS, JavaScript
+- **Backend:** Python, Streamlit
+- **Database:** MySQL
+- **Python Modules:** pandas, pyresparser, pdfminer3, NLTK, Plotly
 ---
 
 ## ⚙️ Requirements
