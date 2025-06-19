@@ -1,4 +1,4 @@
-![Resuminator Logo](screenshots\Icon.png)
+![Resuminator Logo](screenshots/Icon.png)
 
 # Resuminator
 ## AI That Doesn’t Just Read Resumes — It Understands Them
